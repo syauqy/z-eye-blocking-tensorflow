@@ -9,6 +9,7 @@
     "@chakra-ui/react": "^1.0.4",
     "@emotion/react": "^11.1.4",
     "@emotion/styled": "^11.0.0",
+    "@tensorflow-models/body-pix": "^2.0.5",
     "@tensorflow-models/coco-ssd": "^2.2.1",
     "@tensorflow-models/handpose": "^0.0.6",
     "@tensorflow/tfjs": "^2.4.0",

@@ -2251,6 +2251,11 @@
   dependencies:
     defer-to-connect "^2.0.0"
 
+"@tensorflow-models/body-pix@^2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@tensorflow-models/body-pix/-/body-pix-2.0.5.tgz#c9d0b55c3093a3ccebc05948ba057dd7bf9cbc53"
+  integrity sha512-zEke/JjGajqZ00b1X4KVq2yevSfl6HxysDnM8WLHVARrbTbCo3RliZZ0m+AuM/q+UASgmzpiyrEXQYUmmy+H3g==
+
 "@tensorflow-models/coco-ssd@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@tensorflow-models/coco-ssd/-/coco-ssd-2.2.1.tgz#2fd5f778e4cc456e8c1da677a0d503d9245a7d5e"
