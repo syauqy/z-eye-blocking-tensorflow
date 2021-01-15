@@ -5,21 +5,19 @@
   </a>
 </p> -->
 <h1 align="center">
-  Handsign - ASL Hand Gesture Detection Using TensorFlow
+  Z-Eye Real-time Human Blocking
 </h1>
 
-Handsign is a simple AI-based hand gesture recognition that translates a hand pose into the American Sign Language (ASL) alphabet. Using Tensorflow JS and its Handpose preloaded model to detect the hand object and its parts. Handsign also uses an additional library called Fingerpose to classify certain of custom hand gestures based on the finger position.
+#madewithTFJS
 
-#dohackathon #madewithTFJS
+<!-- ![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
 
-![Handsign demo](https://media.giphy.com/media/3KCaNFPTP7ShM7V8jd/giphy.gif)
-
-## [See Demo](https://handsign-m4qq6.ondigitalocean.app/)
+## [See Demo](https://handsign-m4qq6.ondigitalocean.app/) -->
 
 # References & Libraries
 * [Tensorflow JS](https://www.tensorflow.org/js) - A Library for ML in JS.
 
-* [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose) - A lightweight ML pipeline consisting of two models: A palm detector and a hand-skeleton finger tracking model.
+* [Handpose](https://github.com/tensorflow/tfjs-models/tree/master/body-pix) - A model to run agit real-time person and body part segmentation in the browser using TensorFlow.js
 
 * [Fingerpose](https://github.com/andypotato/fingerpose) - A pose classifier for hand landmarks detected by TensorFlow.js Handpose's model.
 
@@ -33,7 +31,7 @@ If you want to learn more about Tensorflow JS and custom gesture handpose, pleas
 
 
 
-# Deploy to your site
-[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/syauqy/handsign-tensorflow-gatsby/tree/master&refcode=a9cb43de523c)
+<!-- # Deploy to your site
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue-ghost.svg)](https://cloud.digitalocean.com/apps/new?repo=https://github.com/syauqy/handsign-tensorflow-gatsby/tree/master&refcode=a9cb43de523c) -->
 
 <!-- AUTO-GENERATED-CONTENT:END -->
