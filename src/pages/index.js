@@ -2,15 +2,18 @@ import React from "react"
 import { Helmet } from "react-helmet"
 
 import { ChakraProvider } from '@chakra-ui/react'
-import Handsign from "./handsign"
+// import Handsign from "./handsign"
+
+import Zeye from "../pages/zeye"
+import Eye from '../pages/eye'
 
 const IndexPage = () => (
   <ChakraProvider id="chakra-provider">
     <Helmet>
           <meta charSet="utf-8" />
-          <title>Handsign | Learn ASL Using Your Camera</title>
+          <title>Z-Eye</title>
         </Helmet>
-    <Handsign />
+    <Eye />
     
   </ChakraProvider>
 )
